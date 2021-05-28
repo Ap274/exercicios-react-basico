@@ -10,6 +10,7 @@ class Exercicio02 extends Component {
   };
   render() {
     return (
+      // testando o pull request
       <div className="card-container">
         <h1>Exercício 02</h1>
         <p>
